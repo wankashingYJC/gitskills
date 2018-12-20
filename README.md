@@ -1,2 +1,2 @@
 # gitskills
-Learn to know how origin works.
+# Learn to know how origin works.
